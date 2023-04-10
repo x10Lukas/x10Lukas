@@ -1,11 +1,19 @@
-<p align="center">
- <img width="150px" src="https://cdn.discordapp.com/icons/595056528105406464/45b46ad943b0400e971e5d2499f6b870.png?size=1024" align="center" alt="Lukas#9627" />
-</p>
+## Hey I'm Lukas9627 👋 
+- I'm a Python Programmer
+- I Develop Discord Bot using [Python](https://www.python.org/downloads/)
 
-# <div align="center">Lukas#9627</div> 
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DnJjec3KcP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lukas.9627) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lukas_9627) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lukas9627) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCEB5HExjCNmqvI89VO53vQw) 
 
-# <div align="center">[![Discord](https://img.shields.io/discord/595056528105406464?color=blue&label=Discord&logo=discord&logoColor=white&style=flat&logo=appveyor)](https://discord.gg/DnJjec3KcP) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEB5HExjCNmqvI89VO53vQw?color=red&label=Youtube&logo=Youtube&logoColor=white&style=flat&logo=appveyor)](https://www.youtube.com/@lukasz9627)</div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=x10Lukas&theme=radical&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&hide=stars)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=x10Lukas&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=x10Lukas&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=x10Lukas&show_icons=true&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=x10Lukas&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/595056528105406464/widget.png?style=banner2"></a>
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lukasbotservices) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
