@@ -1,4 +1,4 @@
-# Hey I'm Lukas9627 👋 
+# Hey I'm Lukas👋 
 - I'm a Python Programmer
 - I Develop Discord Bot using [Python](https://www.python.org/downloads/)
 
