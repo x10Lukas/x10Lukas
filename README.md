@@ -5,7 +5,7 @@
 - I am interested in website development and databases 
 
 ## 🛠️ Programming languages and tools
-[![Skills](https://skillicons.dev/icons?i=py,cs,html,css,ts,js,java,sqlite)]()<br>
+[![Skills](https://skillicons.dev/icons?i=py,cs,html,css,sqlite)]()<br>
 [![Tools](https://skillicons.dev/icons?i=discord,github,git,pycharm,idea,vscode,visualstudio)]()
 
 <p align="right">
