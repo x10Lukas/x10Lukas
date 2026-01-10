@@ -6,7 +6,7 @@
 
 ## 🛠️ Programming languages and tools
 [![Skills](https://skillicons.dev/icons?i=py,cs,html,css,sqlite)]()<br>
-[![Tools](https://skillicons.dev/icons?i=discord,github,git,pycharm,idea,vscode,visualstudio)]()
+[![Tools](https://skillicons.dev/icons?i=discord,github,git,pycharm,vscode,visualstudio)]()
 
 <p align="right">
 
